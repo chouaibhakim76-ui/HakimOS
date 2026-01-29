@@ -1,0 +1,21 @@
+# Build artifacts
+*.o
+*.elf
+*.iso
+
+# QEMU logs
+logQ.txt
+*.log
+
+# ISO build directory contents (but keep the directory structure)
+iso/boot/kernel.elf
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+
+# OS specific
+.DS_Store
+Thumbs.db

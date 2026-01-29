@@ -1,0 +1,12 @@
+# Ignore large QEMU log file
+logQ.txt
+
+# Object and build files
+*.o
+*.elf
+*.iso
+
+# Backup and temporary files
+*.bak
+*~
+logQ.txt

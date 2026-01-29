@@ -1,0 +1,5 @@
+default=0                # Index of default boot entry (first one)
+timeout=0                # No delay; boot immediately
+
+title os                 # Menu entry title displayed by GRUB
+kernel /boot/kernel.elf  # Path to kernel ELF within ISO image
