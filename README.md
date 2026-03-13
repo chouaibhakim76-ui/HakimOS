@@ -1,4 +1,4 @@
-# 🖥️ HakimOS - Second Year Operating System Project
+# 🖥️ HakimOS - Operating System Project
 
 <div align="center">
 
