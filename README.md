@@ -9,7 +9,7 @@
 
 **A custom 32-bit operating system kernel built from scratch**
 
-*University Project - Second Year Computer Science*
+*University Project*
 
 </div>
 
